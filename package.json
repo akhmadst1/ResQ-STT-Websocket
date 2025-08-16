@@ -1,0 +1,13 @@
+{
+  "name": "resq-websocket",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "assemblyai": "^4.0.0",
+    "ws": "^8.15.1",
+    "dotenv": "^16.0.0"
+  }
+}
